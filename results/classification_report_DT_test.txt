@@ -1,0 +1,14 @@
+                     precision    recall  f1-score   support
+
+Insufficient_Weight      0.923     0.878     0.900        41
+      Normal_Weight      0.837     0.837     0.837        43
+     Obesity_Type_I      0.929     0.981     0.954        53
+    Obesity_Type_II      0.936     0.978     0.957        45
+   Obesity_Type_III      1.000     0.958     0.979        48
+ Overweight_Level_I      0.911     0.953     0.932        43
+Overweight_Level_II      1.000     0.932     0.965        44
+
+           accuracy                          0.934       317
+          macro avg      0.934     0.931     0.932       317
+       weighted avg      0.935     0.934     0.934       317
+
